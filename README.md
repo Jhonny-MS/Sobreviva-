@@ -1,2 +1,2 @@
 # Sobreviva-
-Game 2D about
+Game 2D Survivor
